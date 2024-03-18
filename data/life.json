@@ -1,0 +1,196 @@
+{
+    "begin": 1998,
+    "end": 2088,
+    "events" : [
+        {
+            "title": "Birth",
+            "start": "1998-02-17",
+            "color": "red"
+        },
+        {
+            "title": "Pre-Kindergarten",
+            "start": "2002-09-05",
+            "end": "2003-06-20",
+            "color": "rgb(246,180,220)"
+        },
+        {
+            "title": "Kindergarten",
+            "start": "2003-09-05",
+            "end": "2004-06-20",
+            "color": "rgb(246,176,246)"
+        },
+        {
+            "title": "Elementary School 1",
+            "start": "2004-09-05",
+            "end": "2005-06-20",
+            "color": "rgb(153,217,234)"
+        },
+        {
+            "title": "Elementary School 2",
+            "start": "2005-09-05",
+            "end": "2006-06-20",
+            "color": "rgb(153,230,236)"
+        },
+        {
+            "title": "Elementary School 3",
+            "start": "2006-09-05",
+            "end": "2007-06-20",
+            "color": "rgb(155,238,230)"
+        },
+        {
+            "title": "Elementary School 4",
+            "start": "2007-09-05",
+            "end": "2008-06-20",
+            "color": "rgb(155,238,217)"
+        },
+        {
+            "title": "Elementary School 5",
+            "start": "2008-09-05",
+            "end": "2009-06-20",
+            "color": "rgb(155,238,202)"
+        },
+        {
+            "title": "Elementary School 6",
+            "start": "2009-09-01",
+            "end": "2010-06-20",
+            "color": "rgb(155,238,188)"
+        },
+        {
+            "title": "High School 1",
+            "start": "2010-09-07",
+            "end": "2011-06-20",
+            "color": "rgb(225,187,243)"
+        },
+        {
+            "title": "High School 2",
+            "start": "2011-09-07",
+            "end": "2012-06-20",
+            "color": "rgb(206,187,243)"
+        },
+        {
+            "title": "High School 3",
+            "start": "2012-09-05",
+            "end": "2013-06-20",
+            "color": "rgb(187,187,243)"
+        },
+        {
+            "title": "High School 4",
+            "start": "2013-09-05",
+            "end": "2014-06-20",
+            "color": "rgb(187,206,243)"
+        },
+        {
+            "title": "High School 5",
+            "start": "2014-09-05",
+            "end": "2015-06-20",
+            "color": "rgb(187,225,243)"
+        },
+        {
+            "title": "British Columbia YMCA",
+            "start": "2014-06-28",
+            "end": "2014-08-15",
+            "color": "green"
+        },
+        {
+            "title": "Ireland",
+            "start": "2015-06-25",
+            "end": "2015-07-01",
+            "color": "rgb(112,243,186)"
+        },
+        {
+            "title": "College 1-1",
+            "start": "2015-08-20",
+            "end": "2015-12-20",
+            "color": "rgb(51,172,242)"
+        },
+        {
+            "title": "College 1-2",
+            "start": "2016-01-25",
+            "end": "2016-05-27",
+            "color": "rgb(190,127,255)"
+        },
+        {
+            "title": "College 2-1",
+            "start": "2016-08-25",
+            "end": "2016-12-22",
+            "color": "rgb(51,205,243)"
+        },
+        {
+            "title": "College 2-2",
+            "start": "2017-01-25",
+            "end": "2017-05-27",
+            "color": "rgb(149,128,255)"
+        },
+        {
+            "title": "College 3-1",
+            "start": "2017-08-21",
+            "end": "2017-12-22",
+            "color": "rgb(51,237,243)"
+        },
+        {
+            "title": "College 3-2",
+            "start": "2018-01-22",
+            "end": "2018-05-27",
+            "color": "rgb(128,149,255)"
+        },
+        {
+            "title": "ETS 1",
+            "start": "2019-09-05",
+            "end": "2019-12-20",
+            "color": "rgb(230,0,0)"
+        },
+        {
+            "title": "ETS 2",
+            "start": "2020-01-05",
+            "end": "2020-04-25",
+            "color": "rgb(192,0,0)"
+        },
+        {
+            "title": "ETS 3",
+            "start": "2020-05-06",
+            "end": "2020-08-30",
+            "color": "rgb(154,0,0)"
+        },
+        {
+            "title": "Spain",
+            "start": "2022-05-23",
+            "end": "2022-08-18",
+            "color": "orange"
+        },
+        {
+            "title": "Croatia",
+            "start": "2023-04-29",
+            "end": "2023-05-12",
+            "color": "blue"
+        },
+        {
+            "title": "Japan",
+            "start": "2023-08-20",
+            "end": "2023-08-26",
+            "color": "red"
+        },
+        {
+            "title": "Penghu Islands",
+            "start": "2023-09-13",
+            "end": "2023-09-17",
+            "color": "orange"
+        },
+        {
+            "title": "Taiwan",
+            "start": "2023-08-27",
+            "end": "2024-02-05",
+            "color": "green"
+        },
+        {
+            "title": "MAD Alien Race",
+            "start": "2023-12-31",
+            "color": "red"
+        },
+        {
+            "title": "Japan",
+            "start": "2024-02-05",
+            "end": "2024-02-15",
+            "color": "red"
+        }
+    ]
+}
